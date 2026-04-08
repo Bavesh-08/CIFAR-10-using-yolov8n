@@ -136,7 +136,7 @@ device   = CUDA (Tesla T4 — 14913 MiB)
 | Metric | 🟦 YOLOv8n-cls (This Project) | 🟥 ResNet CNN (Previous Project) |
 |---|:---:|:---:|
 | **Top-1 Accuracy** | **75.3%** | ~68% |
-| **Top-5 Accuracy** | **98.5%** | ~95% |
+| **Top-5 Accuracy** | **98.5%** | ~93% |
 | **Parameters** | 1.45M | ~11M (ResNet-18 scale) |
 | **Inference Speed** | **0.66 ms/img** | ~3–5 ms/img |
 | **Training Time (5 epochs)** | **~6 min** | ~15–20 min |
